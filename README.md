@@ -83,8 +83,8 @@ Run the Minecraft launcher
 
     minecraft-launcher
 
-From here you'll encounter a bunch of keyring requests. You can skip over them by minimizing the window.
+From here you'll encounter a keyring request. You can skip over it by minimizing the window.
 
-Login using your Microsoft account and brace for more keyring requests.
+Login using your Microsoft account and brace for another keyring requests.
 
 Enjoy Minecraft on ChromeOS
