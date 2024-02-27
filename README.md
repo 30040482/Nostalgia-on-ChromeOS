@@ -73,6 +73,7 @@ Get Minecraft Java & Bedrock Edition for Linux Distributions from the link below
     https://www.minecraft.net/en-us/download
 
 Copy and paste 'Minecraft.deb' into the 'Minecraft' Linux directory.
+
 Install 'Minecraft.deb'
     
     sudo dpkg -i Minecraft.deb
