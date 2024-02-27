@@ -49,7 +49,7 @@ Enter the unzipped folder.
 
     cd eduke32_20240217-10554-8afa42e38
 
-Copy and paste 'DUKE3D.GRP' from your computer's downloads folder and into 'eduke32_20240217-10554-8afa42e38' in your computer's Linux folder.
+Copy and paste 'DUKE3D.GRP' from your computer's downloads folder into 'eduke32_20240217-10554-8afa42e38' located in your computer's Linux folder.
 
 Compile 'DUKE3D.GRP'.
 
