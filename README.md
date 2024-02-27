@@ -1,6 +1,8 @@
 # Nostalgia-on-ChromeOS
 An instruction manual containing Linux sudo codes that allow for PCCD-issued Chromebooks to install and play 8-bit retro games for free.
 
+
+
 Updating Linux
 
     sudo apt update
@@ -11,10 +13,11 @@ Press Y to accept installation
 Installing Chocolate Doom
 
     sudo apt-get install chocolate-doom
-
     doom
 
 Enjoy Doom on ChromeOS
+
+
     
 Installing 'Duke Nukem 3D: Atomic Edition
 
