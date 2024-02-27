@@ -10,7 +10,7 @@ Updating Linux:
 
 Press Y to accept installation.
 
-Installing Chocolate Doom:
+Installing Doom:
 
     sudo apt-get install chocolate-doom
     doom
