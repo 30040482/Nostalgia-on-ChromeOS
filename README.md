@@ -43,7 +43,7 @@ From here you'll encounter a keyring request. You can skip over it by minimizing
 
 Login using your Microsoft account and brace for another keyring request. Once fully updated, restart your Linux terminal and run the launcher again.
 
-Enjoy Minecraft on ChromeOS
+Enjoy Minecraft on ChromeOS.
     
 Installing 'Duke Nukem 3D: Atomic Edition:
 
