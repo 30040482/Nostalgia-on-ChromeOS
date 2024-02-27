@@ -35,7 +35,7 @@ Download 'DUKE3D.GRP' by selecting 'Duke3d Atomic Edition/DUKE3D.GRP' from the l
 
 Make a directory titled 'DukeNukem' (or whatever else you want).
 
-Copy and paste 'eduke32_src_20240217-10554-8afa42e38.tar.xz' from your computer's downloads folder and into 'DukeNukem'.
+Copy and paste 'eduke32_src_20240217-10554-8afa42e38.tar.xz' from your computer's downloads folder and into the 'DukeNukem' directory.
 
 Enter the directory.
 
