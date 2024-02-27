@@ -8,18 +8,18 @@ Updating Linux
     sudo apt update
     sudo apt upgrade
 
-Press Y to accept installation
+Press Y to accept installation.
 
-Installing Chocolate Doom
+Installing Chocolate Doom:
 
     sudo apt-get install chocolate-doom
     doom
 
-Enjoy Doom on ChromeOS
+That's it really. Enjoy Doom on ChromeOS
 
 
     
-Installing 'Duke Nukem 3D: Atomic Edition
+Installing 'Duke Nukem 3D: Atomic Edition:
 
 Download prerequisites
 
