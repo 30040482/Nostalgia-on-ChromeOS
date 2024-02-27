@@ -60,3 +60,21 @@ Run Duke Nukem 3D.
     ./eduke32
 
 Enjoy 'Duke Nukem 3D: Atomic Edition' on ChromeOS.
+
+Installing Minecraft:
+
+Make a new directory titled 'Minecraft' (or whatever else you want) and enter the directory.
+
+    mkdir Minecraft
+    cd Minecraft
+
+Get Minecraft Java & Bedrock Edition for Linux Distributions from the link below:
+
+    https://www.minecraft.net/en-us/download
+
+Copy and paste 'Minecraft.deb' into the 'Minecraft' Linux directory.
+Install 'Minecraft.deb'
+    
+    sudo dpkg -i minecraft.deb
+
+[Still needs revision]
