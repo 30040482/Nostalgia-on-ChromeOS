@@ -55,7 +55,7 @@ Compile 'DUKE3D.GRP'.
 
     make RELEASE=0
 
-Run Duke Nukem 3D.
+Run the game.
     
     ./eduke32
 
@@ -74,12 +74,12 @@ Get Minecraft Java & Bedrock Edition for Linux Distributions from the link below
 
 Copy and paste 'Minecraft.deb' into the 'Minecraft' Linux directory.
 
-Install 'Minecraft.deb'
+Install 'Minecraft.deb'.
     
     sudo dpkg -i Minecraft.deb
     sudo apt-get install -f
 
-Run the Minecraft launcher
+Run the Minecraft launcher.
 
     minecraft-launcher
 
