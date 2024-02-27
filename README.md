@@ -76,4 +76,8 @@ Copy and paste 'Minecraft.deb' into the 'Minecraft' Linux directory.
 Install 'Minecraft.deb'
     
     sudo dpkg -i Minecraft.deb
+    sudo apt-get install -f
 
+Run the Minecraft launcher
+
+    minecraft-launcher
