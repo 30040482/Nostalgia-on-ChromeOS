@@ -81,3 +81,7 @@ Install 'Minecraft.deb'
 Run the Minecraft launcher
 
     minecraft-launcher
+
+From here you'll encounter a bunch of keyring requests. You can skip over them until the launcher appears.
+
+    
