@@ -16,8 +16,6 @@ Installing Chocolate Doom:
     doom
 
 That's it really. Enjoy Doom on ChromeOS
-
-#############################################
     
 Installing 'Duke Nukem 3D: Atomic Edition:
 
