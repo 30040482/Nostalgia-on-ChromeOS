@@ -10,6 +10,34 @@ Updating Linux:
 
 Press Y to accept installation.
 
+Installing Minecraft:
+
+Make a new directory titled 'Minecraft' (or whatever else you want) and enter the directory.
+
+    mkdir Minecraft
+    cd Minecraft
+
+Get Minecraft Java & Bedrock Edition for Linux Distributions from the link below:
+
+    https://www.minecraft.net/en-us/download
+
+Copy and paste 'Minecraft.deb' into the 'Minecraft' Linux directory.
+
+Install 'Minecraft.deb'.
+    
+    sudo dpkg -i Minecraft.deb
+    sudo apt-get install -f
+
+Run the Minecraft launcher.
+
+    minecraft-launcher
+
+From here you'll encounter a keyring request. You can skip over it by minimizing the window.
+
+Login using your Microsoft account and brace for another keyring request. Once fully updated, restart your Linux terminal and run the launcher again.
+
+Enjoy Minecraft on ChromeOS
+
 Installing Doom:
 
     sudo apt-get install chocolate-doom
@@ -60,31 +88,3 @@ Run the game.
     ./eduke32
 
 Enjoy 'Duke Nukem 3D: Atomic Edition' on ChromeOS.
-
-Installing Minecraft:
-
-Make a new directory titled 'Minecraft' (or whatever else you want) and enter the directory.
-
-    mkdir Minecraft
-    cd Minecraft
-
-Get Minecraft Java & Bedrock Edition for Linux Distributions from the link below:
-
-    https://www.minecraft.net/en-us/download
-
-Copy and paste 'Minecraft.deb' into the 'Minecraft' Linux directory.
-
-Install 'Minecraft.deb'.
-    
-    sudo dpkg -i Minecraft.deb
-    sudo apt-get install -f
-
-Run the Minecraft launcher.
-
-    minecraft-launcher
-
-From here you'll encounter a keyring request. You can skip over it by minimizing the window.
-
-Login using your Microsoft account and brace for another keyring request. Once fully updated, restart your Linux terminal and run the launcher again.
-
-Enjoy Minecraft on ChromeOS
