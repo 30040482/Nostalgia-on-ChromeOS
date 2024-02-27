@@ -83,7 +83,9 @@ Run the Minecraft launcher
     minecraft-launcher
 
 From here you'll encounter a bunch of keyring requests. You can skip over them by minimizing the window.
+
 Login using your Microsoft account 
+
 Ignore more keyring requests until you arrive at the 'Play' button
 
 Enjoy Minecraft on ChromeOS
