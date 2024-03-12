@@ -1,6 +1,5 @@
 # Nostalgia-on-ChromeOS
-Grab some snacks, shut the lights, and enjoy some 8-bit retro games on ChromeOS.
-
+You can also keep the lights on if that's your thing.
 
 
 Updating Linux:
