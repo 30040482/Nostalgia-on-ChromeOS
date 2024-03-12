@@ -1,5 +1,5 @@
 # Nostalgia-on-ChromeOS
-Yes, it can run Doom.
+Grab some snacks, shut the lights, and enjoy some 8-bit retro games on ChromeOS.
 
 
 
