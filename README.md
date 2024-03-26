@@ -38,7 +38,7 @@ Run the Minecraft launcher.
 
     minecraft-launcher
 
-From here you'll encounter a keyring request. You can skip over it by minimizing the window.
+From here you'll encounter a keyring request. You can skip over it by exiting the window.
 
 Login using your Microsoft account and brace for another keyring request. Once fully updated, restart your Linux terminal and run the launcher again.
 
