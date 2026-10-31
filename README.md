@@ -3,7 +3,9 @@ By Luis Angel Soberanis-Pacheco
 
 
 
-[You can also keep the lights on if that's your thing.]
+
+
+You can also keep the lights on if that's your thing. Your pick really.
 
 
 Updating Linux:
